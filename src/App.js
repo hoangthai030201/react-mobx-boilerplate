@@ -4,7 +4,6 @@ import logo from './logo.svg';
 import { Login } from 'components'
 
 import './App.css';
-import Test from './components/Test'
 import Main from './Main';
 
 class App extends Component {
